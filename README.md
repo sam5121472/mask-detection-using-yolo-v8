@@ -1,2 +1,2 @@
 # mask-detection-using-yolo-v8
-i have design a model of object detection for with and without mask using yolo v8
+Developed a real-time object detection model using YOLOv8 to identify and classify individuals as wearing a face mask or not wearing a face mask. The model was trained and optimized on labeled image datasets to achieve accurate detection in various environments and lighting conditions. The project involved data preprocessing, model training, performance evaluation, and deployment-ready inference, demonstrating expertise in computer vision, deep learning, object detection, and AI-based surveillance applications
